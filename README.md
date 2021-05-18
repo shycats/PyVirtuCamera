@@ -1,5 +1,5 @@
 # PyVirtuCamera
-Python module API to create VirtuCamera plug-ins.
+### Python module API to create VirtuCamera plug-ins.
 
 Contains a Python C Extension module, so it's important to pick a release compatible with your Python version. (e.g.: cp37 for CPython 3.7)
 
