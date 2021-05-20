@@ -3,4 +3,4 @@
 
 You can download it from the [Releases section](https://github.com/shycats/PyVirtuCamera/releases).
 
-[Check out the Wiki](https://github.com/shycats/PyVirtuCamera/wiki) for more details on how to use it.
+[Check out the Wiki](https://github.com/shycats/PyVirtuCamera/wiki) for details on how to use it.
